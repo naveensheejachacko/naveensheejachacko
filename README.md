@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **ReactJS**
 
-- 💬 Ask me about **Python,Django,PostgreSQL,MOngoDB**
+- 💬 Ask me about **Python,Django,PostgreSQL,MongoDB**
 
 - 📫 How to reach me **naveenchacko1314@gmail.com**
 
