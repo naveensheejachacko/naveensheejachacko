@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **naveenchacko1314@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1t5Io0Tg48lV_2LGb0V6NsMsShHNYoYG5/view?usp=share_link](https://drive.google.com/file/d/1t5Io0Tg48lV_2LGb0V6NsMsShHNYoYG5/view?usp=share_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1t5Io0Tg48lV_2LGb0V6NsMsShHNYoYG5/view?usp=share_link](https://drive.google.com/file/d/1kWTvlsvJIBLr9VPXxXijunkon70lKONl/view?usp=share_link)
 
 - ⚡ Fun fact **I am a Mechanical Engineer**
 
