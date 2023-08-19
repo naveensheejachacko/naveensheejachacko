@@ -5,15 +5,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naveensheejachacko&label=Profile%20views&color=0e75b6&style=flat" alt="naveensheejachacko" /> </p>
 
-- 🔭 I’m currently working on [Electromart](https://electromart.ml/)
+- 🔭 I’m currently working on [Mingle](https://mingle.fun)
 
 - 🌱 I’m currently learning **ReactJS**
 
 - 💬 Ask me about **Python,Django,PostgreSQL,MongoDB**
 
-- 📫 How to reach me **naveenchacko1314@gmail.com**
+- 📫 How to reach me **naveensheejachacko@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1t5Io0Tg48lV_2LGb0V6NsMsShHNYoYG5/view?usp=share_link](https://drive.google.com/file/d/1kWTvlsvJIBLr9VPXxXijunkon70lKONl/view?usp=share_link)
+- 📄 Know about my experiences [👆](https://drive.google.com/file/d/1kWTvlsvJIBLr9VPXxXijunkon70lKONl/view?usp=share_link)
 
 - ⚡ Fun fact **I am a Mechanical Engineer**
 
