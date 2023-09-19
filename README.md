@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **naveensheejachacko@gmail.com**
 
-- 📄 Know about my experiences [👆](https://drive.google.com/drive/u/0/folders/1LRbqlZ9Tr6lm9_zlChlT2SPeQ2IncTlj)
+- 📄 Know about my experiences [👆]([https://drive.google.com/drive/u/0/folders/1LRbqlZ9Tr6lm9_zlChlT2SPeQ2IncTlj](https://drive.google.com/file/d/1vuGgaQIBKe2JUbTDpyop7ZPEyHLxZd1v/view?usp=drive_link))
 
 - ⚡ Fun fact **I am a Mechanical Engineer**
 
